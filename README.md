@@ -1,2 +1,2 @@
 # hello-world
-Firt try to understand GitHub
+First try to understand GitHub
